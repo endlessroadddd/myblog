@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>我的个人网站</title><link>https://yourusername.github.io/</link><description>Recent content on 我的个人网站</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yourusername.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://yourusername.github.io/about/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://yourusername.github.io/about/</guid><description>&lt;h2 id="你好">
+ 你好
+ &lt;a class="heading-link" href="#%e4%bd%a0%e5%a5%bd">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>我是 [你的名字]，一名 [你的职业/方向]。&lt;/p>
+&lt;h3 id="技术栈">
+ 技术栈
+ &lt;a class="heading-link" href="#%e6%8a%80%e6%9c%af%e6%a0%88">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>编程语言：Python, JavaScript, Go&lt;/li>
+&lt;li>框架：React, Node.js, FastAPI&lt;/li>
+&lt;li>工具：Git, Docker, Kubernetes&lt;/li>
+&lt;/ul>
+&lt;h3 id="经历">
+ 经历
+ &lt;a class="heading-link" href="#%e7%bb%8f%e5%8e%86">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>[公司/学校] - [职位/身份] - [时间]&lt;/li>
+&lt;/ul>
+&lt;h3 id="兴趣">
+ 兴趣
+ &lt;a class="heading-link" href="#%e5%85%b4%e8%b6%a3">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>阅读&lt;/li>
+&lt;li>旅游&lt;/li>
+&lt;li>开源贡献&lt;/li>
+&lt;/ul>
+&lt;h3 id="简历">
+ 简历
+ &lt;a class="heading-link" href="#%e7%ae%80%e5%8e%86">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>我的简历保存在 &lt;a href="https://.feishu.cn/docx/xxx" class="external-link" target="_blank" rel="noopener">飞书文档&lt;/a>，如需查看请联系。&lt;/p></description></item><item><title>Contact</title><link>https://yourusername.github.io/contact/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://yourusername.github.io/contact/</guid><description>&lt;h2 id="联系方式">
+ 联系方式
+ &lt;a class="heading-link" href="#%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:your@email.com" >your@email.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/yourusername" class="external-link" target="_blank" rel="noopener">github.com/yourusername&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Twitter&lt;/strong>: &lt;a href="https://twitter.com/yourtwitter" class="external-link" target="_blank" rel="noopener">@yourtwitter&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/yourusername" class="external-link" target="_blank" rel="noopener">linkedin.com/in/yourusername&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="简历">
+ 简历
+ &lt;a class="heading-link" href="#%e7%ae%80%e5%8e%86">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>我的简历保存在飞书文档，如需查看请联系。&lt;/p></description></item><item><title>Projects</title><link>https://yourusername.github.io/projects/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://yourusername.github.io/projects/</guid><description>&lt;h2 id="我的项目">
+ 我的项目
+ &lt;a class="heading-link" href="#%e6%88%91%e7%9a%84%e9%a1%b9%e7%9b%ae">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="项目一">
+ 项目一
+ &lt;a class="heading-link" href="#%e9%a1%b9%e7%9b%ae%e4%b8%80">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>项目描述&amp;hellip;&lt;/p>
+&lt;h3 id="项目二">
+ 项目二
+ &lt;a class="heading-link" href="#%e9%a1%b9%e7%9b%ae%e4%ba%8c">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="链接到标题">&lt;/i>
+ &lt;span class="sr-only">链接到标题&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>项目描述&amp;hellip;&lt;/p></description></item></channel></rss>
