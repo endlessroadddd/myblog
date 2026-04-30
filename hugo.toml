@@ -1,4 +1,4 @@
-baseURL = "https://endlessroadddd.github.io/"
+baseURL = "https://endlessroadddd.github.io/myblog/"
 languageCode = "zh-cn"
 title = "我的个人网站"
 theme = "hugo-coder"
