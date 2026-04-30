@@ -26,25 +26,17 @@ theme = "hugo-coder"
     weight = 4
 
 [params]
-  author = "你的名字"
+  author = "Endlessroad"
   description = "个人作品集与博客"
-  email = "your@email.com"
-  github = "yourgithub"
-  twitter = "yourtwitter"
-  linkedin = "yourlinkedin"
-  mastodon = "yourmastodon"
+  github = "endlessroadddd"
   # 自定义 CSS（相对于 assets/ 目录）
   customSCSS = ["scss/custom.scss"]
 
 [params.coder]
-  name = "你的名字"
-  email = "your@email.com"
-  github = "yourgithub"
-  twitter = "yourtwitter"
-  linkedin = "yourlinkedin"
-  mastodon = "yourmastodon"
-  description = "一句话介绍你自己"
-  avatar = "images/avatar.png"
+  name = "Endlessroad"
+  github = "endlessroadddd"
+  description = "持续学习的技术人"
+  avatar = "images/avatar.jpg"
 
   [[params.coder.additional_pages]]
     path = "projects"

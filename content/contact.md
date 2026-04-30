@@ -7,10 +7,7 @@ draft = false
 
 ## 联系方式
 
-- **Email**: your@email.com
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **GitHub**: [github.com/endlessroadddd](https://github.com/endlessroadddd)
 
 ## 简历
 
